@@ -6,10 +6,11 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "vite build"
+
      
   },
   "dependencies": {
