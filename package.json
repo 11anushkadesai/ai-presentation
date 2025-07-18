@@ -10,8 +10,6 @@
     "preview": "vite preview",
     "start": "node index.js",
     "build": "vite build"
-
-     
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
